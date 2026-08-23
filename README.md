@@ -448,3 +448,5 @@ That is feasible as a multi-stage project, but it typically involves several spe
 * Web application
 
 A practical strategy is to start with a strong open-source model, build a high-quality Nepali dataset, and iterate from there rather than attempting to create every component from scratch. This dramatically reduces development time while still allowing you to create a unique Nepali TTS engine.
+
+end
