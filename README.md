@@ -14,7 +14,7 @@ For most independent developers, **fine-tuning an existing open-source model** i
 
 ---
 
-# TTS Engine Architecture
+# TTS Engine Architecture ( diagram )
 
 ```
 Text
