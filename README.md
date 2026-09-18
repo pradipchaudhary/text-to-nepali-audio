@@ -12,6 +12,8 @@ If your goal is to build **your own Nepali TTS engine** (not just an app that us
 
 For most independent developers, **fine-tuning an existing open-source model** is the most practical path.
 
+
+add some features
 ---
 
 # TTS Engine Architecture ( diagram )
